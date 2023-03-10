@@ -1,0 +1,10 @@
+.container {
+  width: 50%;
+  @media only screen and (max-width: "768px") {
+    width: 99%;
+  }
+}
+
+.form-control:focus {
+  border-color: transparent !important;
+}

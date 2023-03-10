@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "watch a movie",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "dance",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "meditate everyday",
+      "completed": true
+    }
+  ]
+}
